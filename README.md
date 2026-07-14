@@ -49,6 +49,19 @@ PayanAgent exposes four autonomous USDC-settled GateCheck products with machine-
 
 The generated outputs are bounded public-readiness and launch-review artifacts. They do not perform public distribution, outreach, wallet actions, or security certification.
 
+## Low-cost Signal Desk and ResultRail offers
+
+| Product | Offer | Price | Marketplace |
+| --- | --- | ---: | --- |
+| Signal Desk | Agent spend route quote | $0.03 | [Open offer](https://payanagent.com/marketplace/offers/kh732rk76r7nv67q1h5223kc9x8agkfx) |
+| Signal Desk | Public website lead brief | $0.03 | [Open offer](https://payanagent.com/marketplace/offers/kh7b6yxnq209169aq8wavbqzh98ag9gv) |
+| Signal Desk | DeFi token risk snapshot | $0.01 | [Open offer](https://payanagent.com/marketplace/offers/kh7eqsawc4t694gf1pxqn5shwn8ah5sw) |
+| Signal Desk | Agent tool market comparison | $0.03 | [Open offer](https://payanagent.com/marketplace/offers/kh79rcw8zvdhssthrvbwa32rtd8ahzww) |
+| ResultRail | Public domain result pack | $0.12 | [Open offer](https://payanagent.com/marketplace/offers/kh7be0c7c7e51c11b65d31wtcd8ahdxd) |
+| ResultRail | Public URL extract result | $0.05 | [Open offer](https://payanagent.com/marketplace/offers/kh714wc600k8kdtj9h1kg0zjfd8ahpg1) |
+
+These offers return bounded planning or public-data evidence and do not execute trades, purchases, outreach, or private-data access.
+
 ## Claim boundaries
 
 - This repo is public metadata for hosted remote MCP servers, not a claim that the private production source code is open source.
