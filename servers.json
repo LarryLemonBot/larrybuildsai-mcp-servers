@@ -7,27 +7,27 @@
       "slug": "gatecheck",
       "category": "Security",
       "description": "Seller-side paid x402/MCP readiness checks and launch-pack artifacts.",
-      "mcpEndpoint": "https://x402-resource-scanner.vercel.app/gatecheck/mcp",
-      "marketplaceRoot": "https://x402-resource-scanner.vercel.app/gatecheck/marketplaces",
-      "serverCard": "https://x402-resource-scanner.vercel.app/gatecheck/.well-known/mcp/server-card.json"
+      "mcpEndpoint": "https://proofbeforepay.vercel.app/gatecheck/mcp",
+      "marketplaceRoot": "https://proofbeforepay.vercel.app/gatecheck/marketplaces",
+      "serverCard": "https://proofbeforepay.vercel.app/gatecheck/.well-known/mcp/server-card.json"
     },
     {
       "name": "Signal Desk by LarryBuildsAI",
       "slug": "signal-desk",
       "category": "Data & Analytics",
       "description": "Buyer-side spend-routing preflights before larger agent tool calls.",
-      "mcpEndpoint": "https://x402-resource-scanner.vercel.app/signal-desk/mcp",
-      "marketplaceRoot": "https://x402-resource-scanner.vercel.app/signal-desk/marketplaces",
-      "serverCard": "https://x402-resource-scanner.vercel.app/signal-desk/.well-known/mcp/server-card.json"
+      "mcpEndpoint": "https://proofbeforepay.vercel.app/signal-desk/mcp",
+      "marketplaceRoot": "https://proofbeforepay.vercel.app/signal-desk/marketplaces",
+      "serverCard": "https://proofbeforepay.vercel.app/signal-desk/.well-known/mcp/server-card.json"
     },
     {
       "name": "ResultRail by LarryBuildsAI",
       "slug": "resultrail",
       "category": "Data & Analytics",
       "description": "Pay-per-success public-data result packs with source URLs, confidence, timestamps, and receipt hashes.",
-      "mcpEndpoint": "https://x402-resource-scanner.vercel.app/resultrail/mcp",
-      "marketplaceRoot": "https://x402-resource-scanner.vercel.app/resultrail/marketplaces",
-      "serverCard": "https://x402-resource-scanner.vercel.app/resultrail/.well-known/mcp/server-card.json"
+      "mcpEndpoint": "https://proofbeforepay.vercel.app/resultrail/mcp",
+      "marketplaceRoot": "https://proofbeforepay.vercel.app/resultrail/marketplaces",
+      "serverCard": "https://proofbeforepay.vercel.app/resultrail/.well-known/mcp/server-card.json"
     }
   ]
 }

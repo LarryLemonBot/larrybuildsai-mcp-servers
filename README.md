@@ -8,9 +8,9 @@ This repository is intentionally metadata-only. The production MCP servers are h
 
 | Product | Purpose | Remote MCP endpoint | Public proof |
 | --- | --- | --- | --- |
-| GateCheck by LarryBuildsAI | Seller-side paid x402/MCP readiness checks and launch-pack artifacts. | `https://x402-resource-scanner.vercel.app/gatecheck/mcp` | `https://x402-resource-scanner.vercel.app/gatecheck/marketplaces` |
-| Signal Desk by LarryBuildsAI | Buyer-side spend-routing preflights before larger agent tool calls. | `https://x402-resource-scanner.vercel.app/signal-desk/mcp` | `https://x402-resource-scanner.vercel.app/signal-desk/marketplaces` |
-| ResultRail by LarryBuildsAI | Pay-per-success public-data result packs with source URLs, confidence, timestamps, and receipt hashes. | `https://x402-resource-scanner.vercel.app/resultrail/mcp` | `https://x402-resource-scanner.vercel.app/resultrail/marketplaces` |
+| GateCheck by LarryBuildsAI | Seller-side paid x402/MCP readiness checks and launch-pack artifacts. | `https://proofbeforepay.vercel.app/gatecheck/mcp` | `https://proofbeforepay.vercel.app/gatecheck/marketplaces` |
+| Signal Desk by LarryBuildsAI | Buyer-side spend-routing preflights before larger agent tool calls. | `https://proofbeforepay.vercel.app/signal-desk/mcp` | `https://proofbeforepay.vercel.app/signal-desk/marketplaces` |
+| ResultRail by LarryBuildsAI | Pay-per-success public-data result packs with source URLs, confidence, timestamps, and receipt hashes. | `https://proofbeforepay.vercel.app/resultrail/mcp` | `https://proofbeforepay.vercel.app/resultrail/marketplaces` |
 
 ## Install / connect
 
@@ -22,13 +22,13 @@ Example MCP client configuration shape:
 {
   "mcpServers": {
     "gatecheck": {
-      "url": "https://x402-resource-scanner.vercel.app/gatecheck/mcp"
+      "url": "https://proofbeforepay.vercel.app/gatecheck/mcp"
     },
     "signal-desk": {
-      "url": "https://x402-resource-scanner.vercel.app/signal-desk/mcp"
+      "url": "https://proofbeforepay.vercel.app/signal-desk/mcp"
     },
     "resultrail": {
-      "url": "https://x402-resource-scanner.vercel.app/resultrail/mcp"
+      "url": "https://proofbeforepay.vercel.app/resultrail/mcp"
     }
   }
 }
